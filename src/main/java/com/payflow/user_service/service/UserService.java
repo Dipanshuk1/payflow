@@ -1,4 +1,4 @@
-package com.paypal.user_service.service;
+package com.payflow.user_service.service;
 
 import com.payflow.user_service.entity.User;
 
